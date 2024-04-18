@@ -128,6 +128,7 @@ module.exports = [
     {"name":"Polish", "local":"Polski", "1":"pl", "2":"pol", "2T":"pol", "2B":"pol", "3":"pol"},
     {"name":"Pashto", "local":"پښتو", "1":"ps", "2":"pus", "2T":"pus", "2B":"pus", "3":"pus"},
     {"name":"Portuguese", "local":"Português", "1":"pt", "2":"por", "2T":"por", "2B":"por", "3":"por"},
+    {"name":"Portuguese (Brazil)", "local":"Português (Brasil)", "1":"pb", "2":"pob", "2T":"pob", "2B":"pob", "3":"pob"},
     {"name":"Quechua", "local":"Runa Simi", "1":"qu", "2":"que", "2T":"que", "2B":"que", "3":"que"},
     {"name":"Romansh", "local":"Rumantsch", "1":"rm", "2":"roh", "2T":"roh", "2B":"roh", "3":"roh"},
     {"name":"Kirundi", "local":"Kirundi", "1":"rn", "2":"run", "2T":"run", "2B":"run", "3":"run"},
