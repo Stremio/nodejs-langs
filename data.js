@@ -151,6 +151,7 @@ module.exports = [
     {"name":"Somali", "local":"Soomaaliga", "1":"so", "2":"som", "2T":"som", "2B":"som", "3":"som"},
     {"name":"Southern Sotho", "local":"Sesotho", "1":"st", "2":"sot", "2T":"sot", "2B":"sot", "3":"sot"},
     {"name":"Spanish", "local":"Español", "1":"es", "2":"spa", "2T":"spa", "2B":"spa", "3":"spa", "locale": "es-ES"},
+    {"name":"Spanish (Latin America)", "local":"Español (América Latina)", "1":"es", "2":"spl", "2T":"spl", "2B":"spl", "3":"spl", "locale": "es-419"},
     {"name":"Sundanese", "local":"Basa Sunda", "1":"su", "2":"sun", "2T":"sun", "2B":"sun", "3":"sun"},
     {"name":"Swahili", "local":"Kiswahili", "1":"sw", "2":"swa", "2T":"swa", "2B":"swa", "3":"swa"},
     {"name":"Swati", "local":"SiSwati", "1":"ss", "2":"ssw", "2T":"ssw", "2B":"ssw", "3":"ssw"},
