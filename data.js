@@ -43,7 +43,7 @@ module.exports = [
     {"name":"Dzongkha", "local":"རྫོང་ཁ", "1":"dz", "2":"dzo", "2T":"dzo", "2B":"dzo", "3":"dzo"},
     {"name":"English", "local":"English", "1":"en", "2":"eng", "2T":"eng", "2B":"eng", "3":"eng", "locale": "en-US"},
     {"name":"Esperanto", "local":"Esperanto", "1":"eo", "2":"epo", "2T":"epo", "2B":"epo", "3":"epo"},
-    {"name":"Estonian", "local":"Eesti", "1":"et", "2":"est", "2T":"est", "2B":"est", "3":"est"},
+    {"name":"Estonian", "local":"Eesti", "1":"et", "2":"est", "2T":"est", "2B":"est", "3":"est", "locale": "et-EE"},
     {"name":"Ewe", "local":"Eʋegbe", "1":"ee", "2":"ewe", "2T":"ewe", "2B":"ewe", "3":"ewe"},
     {"name":"Faroese", "local":"Føroyskt", "1":"fo", "2":"fao", "2T":"fao", "2B":"fao", "3":"fao"},
     {"name":"Fijian", "local":"Na Vosa Vaka-Viti", "1":"fj", "2":"fij", "2T":"fij", "2B":"fij", "3":"fij"},
