@@ -17,7 +17,7 @@ module.exports = [
     {"name":"Bashkir", "local":"Башҡортса", "1":"ba", "2":"bak", "2T":"bak", "2B":"bak", "3":"bak"},
     {"name":"Basque", "local":"Euskara", "1":"eu", "2":"eus", "2T":"eus", "2B":"baq", "3":"eus"},
     {"name":"Belarusian", "local":"Беларуская", "1":"be", "2":"bel", "2T":"bel", "2B":"bel", "3":"bel"},
-    {"name":"Bengali", "local":"বাংলা", "1":"bn", "2":"ben", "2T":"ben", "2B":"ben", "3":"ben"},
+    {"name":"Bengali", "local":"বাংলা", "1":"bn", "2":"ben", "2T":"ben", "2B":"ben", "3":"ben", "locale": "bn-BD"},
     {"name":"Bihari", "local":"भोजपुरी", "1":"bh", "2":"bih", "2T":"bih", "2B":"bih", "3":"bih"},
     {"name":"Bislama", "local":"Bislama", "1":"bi", "2":"bis", "2T":"bis", "2B":"bis", "3":"bis"},
     {"name":"Bosnian", "local":"Bosanski", "1":"bs", "2":"bos", "2T":"bos", "2B":"bos", "3":"bos"},
