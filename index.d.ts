@@ -9,7 +9,7 @@ declare namespace langs {
         "2T": string;
         "2B": string;
         "3": string;
-        "locale": string | undefined;
+        ietf: string | undefined;
     }
 
     interface Langs {
